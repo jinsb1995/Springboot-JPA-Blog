@@ -1,0 +1,7 @@
+# xml같은 영역이다(설정 관련된 소스를 여기에 작성하면됨)
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/blog?serverTimezone=Asia/Seoul
+    username: cos
+    password: cos1234
